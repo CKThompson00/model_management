@@ -6,4 +6,6 @@ This repo contains a Python notebook that demonstrates how to leverage the regio
 You can write this to a SQL DB for now.  Other platforms to come soon.
 
 ## Future
-I will be adding a UI and creating automation around this
+- Will be adding a UI and creating automation around this
+- Converting it to use all Entra ID Auth
+- Converting from pyodbc to the new Microsoft native Python ODBC driver
